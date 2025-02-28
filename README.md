@@ -10,3 +10,4 @@ This is a static webpage featuring a retro-inspired design, built using HTML and
 📌 This project is for educational and design inspiration purposes only.
 
 Feel free to fork and experiment with the code! 🚀
+![image](https://github.com/user-attachments/assets/86fad951-bede-4bf6-a290-a26832263423)
